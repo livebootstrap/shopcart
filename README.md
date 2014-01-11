@@ -13,10 +13,10 @@ CONTACT:
 
 ALL RIGHTS RESERVED
 -----------------------------------------------------------
-======================
-IMPORTANT INFORMATIONS
 
+IMPORTANT INFORMATIONS
 ================
+
 WHAT YOU CAN DO:
 -----------------------------------------------------------
 You can use the templates for your personal website.
@@ -34,13 +34,5 @@ You may not distribute our template after you have performed modifications on it
 =========
 REMEMBER:
 -----------------------------------------------------------
-Our templates may be used for your own and/or your customers' websites, but you 
-may not put them on a diskette, CD, website or any other medium and offer them 
-for redistribution or resale. This means that if you are a web developer and 
-consultant you are free to use the templates in the design of your customers' 
-websites. However the templates may not be resold in any sort of collection, 
-such as distributing to a third party via CD, diskette, or letting others to 
-download off your websites. You may not edit the template and then sell/distribute 
-it in any way. NOTE: if you are to using our templates to design websites for 
-your commercial clients, it is important to advise your clients in advance not to distribute our templates to avoid possible legal disputes.
+Our templates may be used for your own and/or your customers' websites, but you may not put them on a diskette, CD, website or any other medium and offer them for redistribution or resale. This means that if you are a web developer and consultant you are free to use the templates in the design of your customers' websites. However the templates may not be resold in any sort of collection, such as distributing to a third party via CD, diskette, or letting others to download off your websites. You may not edit the template and then sell/distribute it in any way. NOTE: if you are to using our templates to design websites for your commercial clients, it is important to advise your clients in advance not to distribute our templates to avoid possible legal disputes.
 --------------------------------------------------------------
