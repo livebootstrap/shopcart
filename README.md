@@ -42,6 +42,5 @@ websites. However the templates may not be resold in any sort of collection,
 such as distributing to a third party via CD, diskette, or letting others to 
 download off your websites. You may not edit the template and then sell/distribute 
 it in any way. NOTE: if you are to using our templates to design websites for 
-your commercial clients, it is important to advise your clients in advance not 
-to distribute our templates to avoid possible legal disputes.
+your commercial clients, it is important to advise your clients in advance not to distribute our templates to avoid possible legal disputes.
 --------------------------------------------------------------
